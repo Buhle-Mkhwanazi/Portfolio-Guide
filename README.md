@@ -4,7 +4,7 @@ Welcome to my portfolio! where I document a summary of my projects in the data f
 
 ## 📃 Table of Contents
 - [SQL](#sql)
-- [Tableau](#tableau)
+- [Power BI](#power-bi)
 - [Tableau](#tableau)
 
 # SQL
