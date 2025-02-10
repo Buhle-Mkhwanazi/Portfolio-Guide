@@ -11,7 +11,7 @@ Welcome to my portfolio! where I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🏡 [House Loan Approval]() | Data analysis, data cleaning, data transformation | I clean and analyze transactional data, uncover key insights, and provide data-driven recommendations that will drive business growth and operational efficiency|
+| 🏡 [Zenith Retail Sales](https://github.com/Buhle-Mkhwanazi/Retail-Sales-Analysis/blob/main/README.md) | Data analysis, data cleaning, data transformation | I clean and analyze transactional data, uncover key insights, and provide data-driven recommendations that will drive business growth and operational efficiency|
 
 ***
 
