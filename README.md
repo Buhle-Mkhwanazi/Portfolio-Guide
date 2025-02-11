@@ -19,4 +19,4 @@ Welcome to my portfolio! where I document a summary of my projects in the data f
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 📞 [Call Center Trends]() | I Analysed call center data to identify trends, agent performance, and customer satisfaction metrics. I also transformed and visualised the data using Power BI, creating an interactive dashboard to provide insights into call volume, resolution rates, wait times, and key areas for operational improvement. | [Dashboard](https://drive.google.com/file/d/1p-gnQY6qTmYautlr7PBWzFVbKPidgyv4/view?usp=sharing) |
+| 📞 [Call Centre Trends]() | I Analysed call center data to identify trends, agent performance, and customer satisfaction metrics. I also transformed and visualised the data using Power BI, creating an interactive dashboard to provide insights into call volume, resolution rates, wait times, and key areas for operational improvement. | [Dashboard](https://drive.google.com/file/d/1p-gnQY6qTmYautlr7PBWzFVbKPidgyv4/view?usp=sharing) |
